@@ -1,4 +1,4 @@
-# Hello 👋 I’m Shalini Senthil
+### Hello 👋 I’m Shalini Senthil
 - ⭐ I'm passionate about data and currently doing the Data Science Bootcamp at Hyperion Dev. I have a bachelors degreee in Information Technology.
 
 ### About Me
