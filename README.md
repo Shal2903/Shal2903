@@ -25,7 +25,7 @@ These are some of the key skills:
 
   ![Alt Text](data_science_shutterstock_shutterstock_Trueffelpix.jpg)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 
 <!---
 Shal2903/Shal2903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
