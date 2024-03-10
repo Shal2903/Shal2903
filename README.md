@@ -1,10 +1,10 @@
--  Hello 👋 I’m Shalini Senthil
+Hello 👋 I’m Shalini Senthil
 - ⭐ I'm passionate about data and currently doing the Data Science Bootcamp at Hyperion Dev. I have a bachelors degreee in Information Technology.
 
 ### About Me
--I am currenlty doing the Data Science Bootcamp at Hyperion Dev focusing on Python, Data Analysis, Data Visualisation and Machine Learning.
--Completed certfication in Microsoft Power BI, learnt to transform data into meaningful insights.
--I have a Bachelors degree in Information Technology.
+- I am currenlty doing the Data Science Bootcamp at Hyperion Dev focusing on Python, Data Analysis, Data Visualisation and Machine Learning.
+- Completed certfication in Microsoft Power BI, learnt to transform data into meaningful insights.
+- I have a Bachelors degree in Information Technology.
 
 ### Skills
 - These are some of the key skills:
