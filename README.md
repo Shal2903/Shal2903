@@ -25,6 +25,8 @@ These are some of the key skills:
 
 
 
+
+
   ![Alt Text](https://www.janets.org.uk/wp-content/uploads/2021/08/Data-Science-illustration-concept-768x236.jpg)
 
 <!---
