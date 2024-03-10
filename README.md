@@ -25,7 +25,7 @@ These are some of the key skills:
 
 
 
-  ![Alt Text](https://www.datanami.com/wp-content/uploads/2018/09/data_science_shutterstock_shutterstock_Trueffelpix.jpg)
+  ![Alt Text](https://www.janets.org.uk/wp-content/uploads/2021/08/Data-Science-illustration-concept-768x236.jpg)
 
 <!---
 Shal2903/Shal2903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
