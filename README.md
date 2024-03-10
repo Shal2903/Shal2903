@@ -24,7 +24,7 @@ These are some of the key skills:
 - Email - shalinisenthil29@gmail.com
 
   ![Alt Text](https://www.datanami.com/wp-content/uploads/2018/09/data_science_shutterstock_shutterstock_Trueffelpix.jpg)
-
+<img src="https://www.datanami.com/wp-content/uploads/2018/09/data_science_shutterstock_shutterstock_Trueffelpix.jpg" alt="Example Image" width="300" height="200">
 <!---
 Shal2903/Shal2903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
