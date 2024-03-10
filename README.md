@@ -19,7 +19,7 @@
 - Bachelor of Information Technology, Anna University (India), 2005
 
 ### Connect With Me 
-- LinkedIn Profile - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%29)](www.linkedin.com/in/shalini-senthil-88b95b81/)
+- LinkedIn Profile - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%29)](./www.linkedin.com/in/shalini-senthil-88b95b81/)
 - Email - shalinisenthil29@gmail.com
 
 
