@@ -23,9 +23,7 @@ These are some of the key skills:
 - LinkedIn Profile -[LinkedIn](https://www.linkedin.com/in/shalini-senthil-88b95b81)
 - Email - shalinisenthil29@gmail.com
 
-  ![Alt Text](data_science_shutterstock_shutterstock_Trueffelpix.jpg)
-
-https://www.bing.com/images/search?view=detailV2&ccid=UsYsbsZd&id=AE014BA5F1468CEE677FC86EEB06FAE56F56B4AA&thid=OIP.UsYsbsZd-CE3CTkqrwRIwgHaCS&mediaurl=https%3A%2F%2Fwww.datanami.com%2Fwp-content%2Fuploads%2F2018%2F09%2Fdata_science_shutterstock_shutterstock_Trueffelpix.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.52c62c6ec65df8213709392aaf0448c2%3Frik%3DqrRWb%252bX6ButuyA%26pid%3DImgRaw%26r%3D0&exph=3000&expw=9727&q=data+science+images&simid=608005569814484581&form=IRPRST&ck=891DC5A5EA7361918E5C6BCAEF5F1E83&selectedindex=33&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11
+  ![Alt Text](https://www.bing.com/images/search?view=detailV2&ccid=UsYsbsZd&id=AE014BA5F1468CEE677FC86EEB06FAE56F56B4AA&thid=OIP.UsYsbsZd-CE3CTkqrwRIwgHaCS&mediaurl=https%3A%2F%2Fwww.datanami.com%2Fwp-content%2Fuploads%2F2018%2F09%2Fdata_science_shutterstock_shutterstock_Trueffelpix.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.52c62c6ec65df8213709392aaf0448c2%3Frik%3DqrRWb%252bX6ButuyA%26pid%3DImgRaw%26r%3D0&exph=3000&expw=9727&q=data+science+images&simid=608005569814484581&form=IRPRST&ck=891DC5A5EA7361918E5C6BCAEF5F1E83&selectedindex=33&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11)
 
 <!---
 Shal2903/Shal2903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
