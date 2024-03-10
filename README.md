@@ -23,6 +23,8 @@ These are some of the key skills:
 - LinkedIn Profile -[LinkedIn](https://www.linkedin.com/in/shalini-senthil-88b95b81)
 - Email - shalinisenthil29@gmail.com
 
+  ![Alt Text](data_science_shutterstock_shutterstock_Trueffelpix.jpg)
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
 <!---
