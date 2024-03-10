@@ -23,11 +23,8 @@ These are some of the key skills:
 - LinkedIn Profile -[LinkedIn](https://www.linkedin.com/in/shalini-senthil-88b95b81)
 - Email - shalinisenthil29@gmail.com
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 <!---
 Shal2903/Shal2903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
