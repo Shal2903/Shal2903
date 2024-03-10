@@ -8,7 +8,7 @@
 - Currently working as Engineering Assistant and looking for a carrer change into the Tech industry. 
 
 ### Skills
-- These are some of the key skills:
+These are some of the key skills:
 - **Programming Lanuages:** Python
 - **Database:** SQL
 - **Data Visualization:** Power BI
